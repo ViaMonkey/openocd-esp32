@@ -1,0 +1,32 @@
+-------------------------------------------------
+-- AMONTEC JTAGkey DRIVER LICENSE AGREEMENT --
+-------------------------------------------------                                 
+Amontec JTAGkey drivers for Windows 2000, XP, Server 2003, Vista, Server 2008, Windows 7 and Server 2008 R2 (x86 and x64). 
+
+Copyright (C) 2003-2009, Amontec - Gauch
+          
+Amontec
+La Grand Fin 32, 
+CH-1633 Vuippens, 
+Switzerland 
+http://www.amontec.com 
+
+-- IMPORTANT --
+READ THESE TERMS CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE. 
+BY INSTALLING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. 
+IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT, DO NOT INSTALL NOR USE THE SOFTWARE.
+
+The Amontec JTAGkey drivers may be used only in conjunction with Amontec JTAGkey USB JTAG Dongle Products.
+This driver may be distributed in any form as long as our Amontec information is not modified.
+Amontec does not authorize to add any new USB VID and/or USB PID to this driver.
+Amontec does not authorize to modify any description string in this driver. 
+Any modification of this driver will break the Microsoft WHQL Certification, and could make your operating system instable.
+
+Amontec Team
+website: http://www.amontec.com 
+website: http://www.amontec.com/jtagkey.shtml 
+contact: http://www.amontec.com/contact.shtml 
+
+JTAGkey TM is trademarks of Amontec
+
+All trademarks are held by their respective owners.
